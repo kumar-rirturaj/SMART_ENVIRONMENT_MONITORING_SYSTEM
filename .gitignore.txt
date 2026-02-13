@@ -1,3 +1,2 @@
-__pycache__/
-*.pyc
 sensor_data.csv
+
